@@ -1,4 +1,4 @@
-# 3D model using Blender:
+# 3D model:
 
 I independently conceptualized and developed a 3D model of the college gate using Blender, a leading 3D modeling software.
 
